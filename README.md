@@ -10,7 +10,7 @@ npm install sphero
 
 ## How to use
 
-```
+```javascript
 var sphero = require('sphero');
 
 var client = sphero.createClient();
