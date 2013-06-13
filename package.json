@@ -13,7 +13,8 @@
   "main": "index.js",
   "dependencies": {
     "serialport": "~1.1.0",
-    "lodash": "~1.2.1"
+    "lodash": "~1.2.1",
+    "onecolor": "~2.3.4"
   },
   "devDependencies": {
     "mocha": "~1.10.0",
