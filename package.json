@@ -1,6 +1,6 @@
 {
   "name": "sphero",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A node.js client for controlling Sphero robotic ball.",
   "author": "Greg Bergé <berge.greg@gmail.com>",
   "keywords": [
