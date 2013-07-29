@@ -15,9 +15,7 @@ var sphero = require('sphero');
 
 var client = sphero.createClient();
 client.connect(function () {
-  client.getPowerState(function (err, data) {
-    console.log(data);
-  });
+  client.color('red');
 });
 ```
 
