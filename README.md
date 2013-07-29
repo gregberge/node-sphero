@@ -1,4 +1,4 @@
-# sphero
+# sphero [![Build Status](https://travis-ci.org/neoziro/node-sphero.png?branch=master)](https://travis-ci.org/neoziro/node-sphero)
 
 Control Sphero robotic ball from node.js.
 
