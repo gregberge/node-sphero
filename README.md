@@ -1,12 +1,8 @@
 # sphero [![Build Status](https://travis-ci.org/neoziro/node-sphero.png?branch=master)](https://travis-ci.org/neoziro/node-sphero)
 
+# This plugin is no longer actively maintained, you can still use it but issues will not be resolved. If you want the npm name, you can contact me by email.
+
 Control Sphero robotic ball from node.js.
-
-## Install
-
-```
-npm install sphero
-```
 
 ## How to use
 
